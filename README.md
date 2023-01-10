@@ -1,1 +1,1 @@
-# VSCode_for_PowerShell_Admins
+# VSCode for PowerShell Admins
